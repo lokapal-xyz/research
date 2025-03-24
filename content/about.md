@@ -19,5 +19,6 @@ At DAO Horizons, we believe that research should not exist in isolation but shou
 ## Stay Connected
 All DAO Horizons articles are also available on our Substack for those who prefer a newsletter format.
 
-🔹 [Read on Substack](your-daohorizons-substack-link)
+🔹[**Contact Page**](../contact/)
 
+🔹[**Read on Substack**](https://substack.com/@lokapal)

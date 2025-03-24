@@ -21,7 +21,7 @@ params:
     imageHeight: 240 # custom size
     buttons:
       - name: 🔹DAO Horizons
-        url: "consulting"
+        url: "dao-horizons"
       - name: 🔸Homepage
         url: "https://lokapal-xyz.github.io/"
 
@@ -72,8 +72,8 @@ params:
   # search options https://www.fusejs.io/api/options.html
   fuseOpts:
     location: 0
-    distance: 100
-    threshold: 0.1
+    distance: 10
+    threshold: 0
     minMatchCharLength: 3
     #includeScore: true
 
