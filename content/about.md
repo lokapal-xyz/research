@@ -22,3 +22,30 @@ All DAO Horizons articles are also available on our Substack for those who prefe
 🔹[**Contact Page**](../contact/)
 
 🔹[**Read on Substack**](https://substack.com/@lokapal)
+
+---
+
+## AI-Usage Disclaimer
+
+At Lokapal, we believe in full transparency about our content creation process. We use artificial intelligence (AI) tools during the development of these articles to:
+
+- Assist in content drafting
+- Provide initial structural and grammatical suggestions
+- Help refine and polish explanatory materials
+- Support research and information synthesis
+
+### **Our Commitment to Quality and Accuracy:**
+
+- All AI-assisted content undergoes human review and verification
+- We critically evaluate and manually check AI-generated suggestions
+- We maintain full editorial responsibility for the final published content
+- AI tools are used as collaborative aids, not as replacement for human expertise and judgment
+
+### **Ethical AI Use Principles:**
+
+- We use AI responsibly and transparently
+- Our goal is to enhance, not replace, human knowledge and understanding
+- We actively work to mitigate potential biases and limitations in AI-generated content
+- All content reflects our independent editorial standards and educational mission
+
+This disclaimer reflects our commitment to integrity, transparency, and high-quality educational resources.
