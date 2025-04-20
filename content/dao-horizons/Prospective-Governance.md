@@ -2,6 +2,8 @@
 date: '2025-03-10T16:43:23-03:00'
 draft: false
 title: 'DAO Vision in Action: A Guide to Prospective Governance'
+cover:
+  image: "img/Cape_May_Lighthouse_September_2020_002.jpg"
 tags:
 - dao
 - prospective
@@ -101,3 +103,6 @@ Prospective governance is not about predicting the future, but about preparing f
 
 Do you have any questions or suggestions? Please contact [**Lokapal Research**](../../contact/) and let's continue building a better horizon for DAOs. Thank you!
 
+---
+
+*Cover Image by King of Hearts from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cape_May_Lighthouse_September_2020_002.jpg). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

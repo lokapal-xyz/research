@@ -2,6 +2,8 @@
 date: '2025-03-11T16:43:23-03:00'
 draft: false
 title: CAOs in DAOs' Clothing. An Overview on Governance Absolutism
+cover:
+  image: "img/CharlesX.jpg"
 tags:
 - dao
 - cao

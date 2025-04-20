@@ -2,6 +2,8 @@
 date: '2025-03-09T16:43:23-03:00'
 draft: false
 title: 'DAO Boundedness: Motives, Traits, and Mishandlings'
+cover:
+  image: "img/Wooden_fence_in_Si_Phan_Don.jpg"
 tags:
 - dao
 - bounded
@@ -85,3 +87,7 @@ DAOs built with DAO DAO will fall on a bounded/unbounded spectrum, but its compo
 We’ve covered some key aspects of DAO boundedness, and two terms that may assist in our boundaries' examination: bounded and unbounded. As you could see, this topic is far from exhausted—too many avenues for exploration remain active. We hope that this framework was of use, and we encourage you to apply this framework when analyzing DAOs. Stay in touch with **DAO Horizons** for future articles that will expand on these ideas.
 
 Do you have any questions or suggestions? Please contact [**Lokapal Research**](../../contact/) and let's continue building a better horizon for DAOs. Thank you!
+
+---
+
+*Cover Image by Basile Morin from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wooden_fence_in_Si_Phan_Don.jpg). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
