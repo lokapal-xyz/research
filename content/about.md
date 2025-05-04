@@ -29,8 +29,8 @@ All DAO Horizons articles are also available on our Substack for those who prefe
 
 At Lokapal, we believe in full transparency about our content creation process. We use artificial intelligence (AI) tools during the development of these articles to:
 
-- Assist in content drafting
-- Provide initial structural and grammatical suggestions
+- Assist in content alignment
+- Provide styling and grammatical suggestions
 - Help refine and polish explanatory materials
 - Support research and information synthesis
 
