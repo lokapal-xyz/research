@@ -16,4 +16,4 @@ Let’s see where our paths might align.
 
 🔗 LinkedIn: https://www.linkedin.com/in/ricardo-mauro-pintos/
 
-🌐 Website: https://lokapal-xyz.github.io/
+🌐 Website: https://lokapal-xyz.github.io/en/
