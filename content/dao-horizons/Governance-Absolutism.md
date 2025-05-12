@@ -70,7 +70,7 @@ Examples include "guardian" multisigs that can override DAO decisions, timelock 
 
 Here are some examples of vetocratic absolutism:
 - **Tornado Cash DAO's guardian mechanism**: The multisig had effective veto power over governance decisions.
-- **ENS DAO's "veto council"**: Created to intervene in potentially harmful decisions, showing the tension between security and decentralization.
+- **MakerDAO's emergency powers**: Created to intervene in potentially harmful decisions, showing the tension between security and decentralization.
 
 ---
 
