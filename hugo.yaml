@@ -32,6 +32,8 @@ params:
       url: "https://x.com/lokapalxyz"
     - name: "substack"
       url: "https://lokapal.substack.com/"
+    - name: "medium"
+      url: "https://medium.com/@lokapal_53133/"
     - name: "github"
       url: "https://github.com/lokapal-xyz"
     - name: "telegram"

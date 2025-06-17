@@ -13,15 +13,18 @@ DAO Horizons leans heavily into system theory and philosophy to examine how dece
 - Emerging trends and innovations in DAO mechanisms.
 - Practical case studies on successful and failed DAOs.
 
-## Bridging Research and Practice
-At DAO Horizons, we believe that research should not exist in isolation but should inform and shape real-world DAO implementations. Our work is designed to provide actionable insights for DAO builders, researchers, and governance theorists alike.
-
 ## Stay Connected
-All DAO Horizons articles are also available on our Substack for those who prefer a newsletter format.
+All DAO Horizons articles are also available on our **Substack**, **Medium**, **Mirror** and **Paragraph** for those who prefer a newsletter format.
 
 🔹[**Contact Page**](../contact/)
 
-🔹[**Read on Substack**](https://substack.com/@lokapal)
+🔹Read on [**Substack**](https://lokapal.substack.com/)
+
+🔹Read on [**Medium**](https://medium.com/@lokapal_53133/)
+
+🔹Read on [**Mirror**](https://mirror.xyz/0xF1F2363dE9588E5e9701209B5410195122551414)
+
+🔹Read on [**Paragraph**](https://paragraph.com/@daohorizons)
 
 ---
 
